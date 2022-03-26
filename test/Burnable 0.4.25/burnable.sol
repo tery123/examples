@@ -1,6 +1,6 @@
 pragma solidity ^0.4.25;
 
-import "https://github.com/tery123/grid-trading/blob/main/test/ERC20.0.4.25/ERC20.sol";
+import "https://github.com/tery123/examples/blob/main/test/ERC20.0.4.25/ERC20.sol";
 
 contract burnable is ERC20 {
   

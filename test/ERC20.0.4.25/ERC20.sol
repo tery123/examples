@@ -1,7 +1,7 @@
 pragma solidity ^0.4.26;
 
-import "https://github.com/tery123/grid-trading/blob/main/contracts/math/SafeMath.sol";
-import "https://github.com/tery123/grid-trading/blob/main/test/ERC20.0.4.25/interface/IERC20.sol";
+import "https://github.com/tery123/examples/blob/main/contracts/math/SafeMath.sol";
+import "https://github.com/tery123/examples/blob/main/test/ERC20.0.4.25/interface/IERC20.sol";
 
 contract ERC20 is IERC20{
     using SafeMath for uint256;
